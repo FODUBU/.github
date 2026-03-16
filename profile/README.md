@@ -14,7 +14,6 @@ FODUBU Ecosystem DApps
 - **URL**: https://trade.fodubu.com
 - **Purpose**: Central marketplace and utility hub
 - **Role**: Trade and service aggregation, entry point to ecosystem
-- **Status**: each  app with App ID (across ecosystem)
 
 ### 2. TRACO - Agri-Connect Marketplace
 - **URL**: https://traco.fodubu.com
@@ -23,20 +22,17 @@ FODUBU Ecosystem DApps
   - Buying/selling agricultural products
   - Seed distribution to branches and farmers
   - Agricultural value-chain connectivity
-- **Status**: Has App ID from Pi App Studio
 
 ### 3. SETRA - Eco Marketplace
 - **URL**: https://setra.fodubu.com (also https://setra2493.pinet.com)
 - **Purpose**: Environment-focused sustainable trade
 - **Features**:
-  - All services documented in `SETRA-PROGRAMS-AND-SERVICES.md`
   - Reforestation, Aquaculture, Transportation, Clean Energy, Construction
-- **Status**: has its ID From App Studio
 
 
 ## 🏗️ Technical Architecture
 
-### Current Stack (From Your GitHub Repo)
+### Current Stack 
 
 #### Frontend
 - ReactJS with Vite
@@ -68,7 +64,7 @@ FODUBU Ecosystem DApps
    - Unified backend for all 3 apps
    - Private repository (read-only access on request)
 
-3. **Frontend Repos** (Need to be created/linked):
+3. **Frontend Repos**
    - FODUBU Main frontend: https://github.com/FODUBU/fodubu
    - TRACO-MARKETPACE  v0: https://github.com/FODUBU/TRACO-MARKETPLACE
    - SETRA-MARKETPLACE v0: https://github.com/FODUBU/SETRA-MARKETPLACE
