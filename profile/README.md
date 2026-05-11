@@ -36,6 +36,7 @@ FODUBU Ecosystem DApps
 
 #### Frontend
 - ReactJS with Vite
+- NextJS with Next
 - Pi JavaScript SDK (`@pi-apps/pi-sdk`)
 - Pi Browser-compatible UI
 
