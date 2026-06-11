@@ -48,7 +48,7 @@ FODUBU Ecosystem DApps
 - Secure Pi payment verification
 
 #### Database
-- MongoDB Atlas
+- MongoDB
 - Environment-based configuration
 - CI-ready structure
 
